@@ -1,4 +1,38 @@
-## Hi there 👋
+# Hi, I'm Anuj 👋  
+
+💻 Full Stack Web Developer  
+🎬 Professional Video Editor  
+📍 Based in India  
+
+I build modern, responsive websites and create engaging video content.
+
+---
+
+## 🚀 Skills
+
+### 💻 Development
+- HTML
+- CSS
+- JavaScript
+- React (Learning)
+- Node.js (Learning)
+
+### 🎬 Video Editing
+- Adobe Premiere Pro
+- Filmora
+- Cinematic Editing
+- YouTube Video Editing
+- Reels & Shorts Editing
+
+---
+
+## 🎯 Current Goal
+To grow as a professional developer & video editor and work with international clients.
+
+---
+
+## 📩 Contact
+Email: anujnfma001@gmail.com
 
 <!--
 **anujcreates01/anujcreates01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
